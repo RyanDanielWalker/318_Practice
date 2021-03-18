@@ -28,7 +28,7 @@
   margin-left: 25%;
   box-sizing: border-box;
 }
-  
+
 .center {
   text-decoration: underline;
   text-align: center;
@@ -38,10 +38,15 @@
 }
 
 .centered-image {
+  border:solid white 5px;
   margin: auto;
   width: 30%;
   height:auto;
   display: block;
+}
+
+body {
+  background-color: thistle;
 }
 
 
