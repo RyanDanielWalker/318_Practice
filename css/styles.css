@@ -1,10 +1,7 @@
-h1 {
+.h1 {
+  text-align: center;
   font-size: 32 px;
   font-style:oblique;
-}
-
-.h1 h1 {
-  text-align: center;
 }
 
 .epi {
@@ -16,12 +13,22 @@ h1 {
   width: 45%;
   border: 3px solid black;
   padding: 3px;
-  margin: auto;
-  margin top: 10px;
   background-color: salmon;
+  margin-top: 15px;
+  margin-left: 25%;
   box-sizing: border-box;
 }
 
+.box2 {
+  width: 45%;
+  border: 3px solid black;
+  padding: 3px;
+  background-color: yellow;
+  margin-top: 15px;
+  margin-left: 25%;
+  box-sizing: border-box;
+}
+  
 .center {
   text-decoration: underline;
   text-align: center;
@@ -29,6 +36,7 @@ h1 {
   font-style: italic;
   font-weight: bold;
 }
+
 
 
 
