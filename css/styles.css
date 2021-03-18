@@ -37,6 +37,13 @@
   font-weight: bold;
 }
 
+.centered-image {
+  margin: auto;
+  width: 30%;
+  height:auto;
+  display: block;
+}
+
 
 
 
