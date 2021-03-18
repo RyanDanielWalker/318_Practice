@@ -20,6 +20,7 @@
 }
 
 .box2 {
+  margin:auto;
   width: 45%;
   border: 3px solid black;
   padding: 3px;
@@ -49,11 +50,7 @@ body {
   background-color: thistle;
 }
 
-.column {
-  text-decoration: underline;
-  margin:auto; 
-  width: 300px;
-  height: 95%;
-}
+
+
 
 
