@@ -10,18 +10,18 @@
 }
 
 .box1 {
-  width: 45%;
+  margin:auto;
+  width: 25%;
   border: 3px solid black;
   padding: 3px;
   background-color: rgb(245, 164, 155);
   margin-top: 15px;
-  margin-left: 25%;
   box-sizing: border-box;
 }
 
 .box2 {
   margin:auto;
-  width: 45%;
+  width: 50%;
   border: 3px solid black;
   padding: 3px;
   background-color: rgb(184, 184, 123);
@@ -48,6 +48,12 @@
 
 body {
   background-color: thistle;
+}
+
+.list {
+  margin: auto;
+  width:50%;
+  /* display:block; */
 }
 
 
