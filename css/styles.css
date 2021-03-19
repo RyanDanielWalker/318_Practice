@@ -21,12 +21,12 @@
 
 .box2 {
   margin:auto;
-  width: 50%;
+  width: 25%;
   border: 3px solid black;
   padding: 3px;
   background-color: rgb(184, 184, 123);
   margin-top: 15px;
-  margin-left: 25%;
+  /* margin-left: 25%; */
   box-sizing: border-box;
 }
 
@@ -52,11 +52,24 @@ body {
 
 .list {
   margin: auto;
-  width:50%;
-  /* display:block; */
+  width:fit-content;
 }
 
+.Columns {
+  text-align: center;
+  width:30%;
+  float: left;
+}
 
+.Columns2 {
+  text-align: center;
+  width:30%;
+  float: right;
+}
 
-
-
+.Columns3 {
+  text-align: center;
+  margin: auto;
+  width:30%;
+  ;
+}
